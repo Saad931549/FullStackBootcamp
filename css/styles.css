@@ -1,0 +1,16 @@
+hr{
+    border-style: dotted none none;
+    width: 3%;
+    height: 5px;
+    
+    border-width: 5px;
+    border-color: #D0C9C0;
+}
+
+h1,h3{
+    color: #1C6758;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: #2C3639 ;
+}
